@@ -8,4 +8,4 @@ fluctfig3A: code for figure 3A: fluctuations under a control and WITHOUT tempera
 
 fluctfig3B: code for figure 3B: fluctuations under a control and WITH temperature effects
 
-heatmapET: code for figure 3C: heatmap over vatious efforts and temperatures
+heatmapET: code for figure 3C: heatmap over various efforts and temperatures
